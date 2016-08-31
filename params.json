@@ -1,0 +1,6 @@
+{
+  "name": "QuizletBot - Everything You Need to Know",
+  "tagline": "2016 - Jackson Tullis - Apache 2.0 License ",
+  "body": "## QuizletBot - The Free Alternative\r\n\r\nWe know you don't want to pay $2.00 for Quicklet, so we have come up with QuizletBot!\r\nQuizletBot is dedicated to helping you achieve that unbeatable score- we hope you enjoy it!\r\n\r\n## Usage and Installation Guide\r\n\r\nQuizletBot is incredibly simple and easy to use- just follow the steps below.\r\n\r\n1. Install the plugin\r\n2. Go to any Quizlet Scatter or Gravity game\r\n3. Click the QuizletBot icon in the top-right corner (plugin icon)\r\n\r\nScatter Directions:\r\n\r\n1. Match the two cards that say \"Match Me\" together, I know, I'm working on the automation.\r\n\r\nGravity Directions:\r\n\r\n1. Click the QuizletBot\r\n2. Make sure the Gravity game is set to the instructions provided\r\n3. Press Space then Enter to submit\r\n\r\nEnjoy!\r\n\r\n\r\nYes, this works!\r\n\r\nhttps://quizlet.com/148318082/quizletbot-demonstration-flash-cards/",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
